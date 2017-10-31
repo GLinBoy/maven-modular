@@ -13,5 +13,6 @@
     <module>service-impl</module>
     <module>repository</module>
     <module>repository-impl</module>
+    <module>application</module>
   </modules>
 </project>
