@@ -10,5 +10,6 @@
   <modules>
     <module>model</module>
     <module>service</module>
+    <module>service-impl</module>
   </modules>
 </project>
