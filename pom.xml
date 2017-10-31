@@ -12,5 +12,6 @@
     <module>service</module>
     <module>service-impl</module>
     <module>repository</module>
+    <module>repository-impl</module>
   </modules>
 </project>
